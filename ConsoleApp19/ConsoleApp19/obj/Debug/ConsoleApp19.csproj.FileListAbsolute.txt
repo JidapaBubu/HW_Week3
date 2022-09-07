@@ -1,0 +1,16 @@
+C:\Users\jipda\OneDrive\Documents\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+C:\Users\jipda\OneDrive\Documents\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+C:\Users\jipda\OneDrive\Documents\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+C:\Users\jipda\OneDrive\Documents\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.AssemblyReference.cache
+C:\Users\jipda\OneDrive\Documents\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\jipda\OneDrive\Documents\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\jipda\OneDrive\Documents\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+C:\Users\jipda\OneDrive\Documents\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.pdb
+C:\Users\jipda\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\Desktop\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe.config
+C:\Users\jipda\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\Desktop\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.exe
+C:\Users\jipda\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\Desktop\ConsoleApp19\ConsoleApp19\bin\Debug\ConsoleApp19.pdb
+C:\Users\jipda\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\Desktop\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.AssemblyReference.cache
+C:\Users\jipda\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\Desktop\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.SuggestedBindingRedirects.cache
+C:\Users\jipda\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\Desktop\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.csproj.CoreCompileInputs.cache
+C:\Users\jipda\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\Desktop\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.exe
+C:\Users\jipda\OneDrive - King Mongkut’s University of Technology Thonburi (KMUTT)\Desktop\ConsoleApp19\ConsoleApp19\obj\Debug\ConsoleApp19.pdb
